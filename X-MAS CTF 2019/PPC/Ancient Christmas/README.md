@@ -68,7 +68,7 @@ challenge replied us `"Response took too long. Try moving faster!"`.
 Doh! No way to make it manually.
 
 We started researching about image similarity and template matching and we find
-out the [Template Matching]([https://docs.opencv.org/master/d4/dc6/tutorial_py_template_matching.html)
+out the [Template Matching](https://docs.opencv.org/master/d4/dc6/tutorial_py_template_matching.html)
 function of OpenCV.
 
 It is a method for searching and finding the location of a template image in a
