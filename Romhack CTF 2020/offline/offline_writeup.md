@@ -153,4 +153,6 @@ Utilizzando lo script python riusciamo infine a generare la seguente immagine:
 
 HTB{OLED_r3vers1ng_1s_4un_!@^#}
 
-<a name="footnote1">1</a>: L'unica differenza tra l'SSD1306 e l'SH1306 è la risoluzione di 130\*64 pixel, ma dalla configurazione delle pagine di memoria si può osservare che l'indirizzo iniziale delle pagine è traslato di 2 byte, in questo modo le prime due colonne di pixel non verranno mai utilizzate e quindi la risoluzzione effettiva è di 128\*64 pixel
+### Note
+
+<a name="footnote1">1</a>: L'unica differenza tra l'SSD1306 e l'SH1306 è la risoluzione di 130\*64 pixel, ma dalla configurazione delle pagine di memoria si può osservare che l'indirizzo iniziale delle pagine è traslato di 2 byte, in questo modo le prime due colonne di pixel non verranno mai utilizzate e quindi la risoluzione effettiva è di 128\*64 pixel
